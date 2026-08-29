@@ -64,5 +64,5 @@ Git · GitHub · Docker · PostgreSQL
 
 **Email:** [ekrasafdar17@gmail.com](mailto:ekrasafdar17@gmail.com)
 **GitHub:** https://github.com/iqrasafdarr
-**LinkedIn:** [Your LinkedIn Profile]
-**Kaggle:** [Your Kaggle Profile]
+**LinkedIn:** [https://www.linkedin.com/in/iqrasafdarr/]
+**Kaggle:** [https://www.kaggle.com/ekrasafdar]
